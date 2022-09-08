@@ -1,0 +1,3 @@
+[submodule "react-native-guide"]
+	path = react-native-guide
+	url = https://github.com/reactnativecn/react-native-guide.git
